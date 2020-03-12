@@ -1,0 +1,15 @@
+{
+  "name": "hey-bracelet-testsuite",
+  "version": "0.0.1",
+  "description": "Test suite for testing Hey! Bracelet devices",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.17.1",
+    "noble": "^1.9.1"
+  }
+}
